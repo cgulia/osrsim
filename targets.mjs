@@ -1,0 +1,45 @@
+export const target = {
+    zebak: {
+        hp:580,
+        bdef:70,
+        rdef:110,
+        toamult:true,
+        type: 'none',
+        info: 'Zebak',
+        tag: 'zebak',
+    },
+    wardenp3: {
+        hp:880,
+        bdef:150,
+        rdef:20,
+        toamult:true,
+        type: 'none',
+        info: 'Warden P3',
+        tag: 'wardenp3',
+    },
+    olm: {
+        hp:800,
+        bdef:150,
+        rdef:50,
+        toamult:false,
+        type: 'draconic',
+        info: 'Olm Headphase',
+        tag: 'olm',
+    },
+    vasa: {
+        hp:300,
+        bdef:175,
+        rdef:60,
+        toamult:false,
+        type: 'none',
+        tag: 'vasa',
+    },
+    untitled: {
+        hp:900,
+        bdef:250,
+        rdef:100,
+        toamult:false,
+        type:'none',
+        tag:'untitled',
+    }
+};

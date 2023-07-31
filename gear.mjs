@@ -1,0 +1,48 @@
+export const gear = {
+    zcbmasori: {
+        acc:251,
+        str:149,
+        aspd:5,
+        setbonus:[1,1],
+        dragonbane:false,
+        ruby:true,
+        info: 'ZCB + Masori',
+    },
+    zcbdhides: {
+        acc:217,
+        str:139,
+        aspd:5,
+        setbonus:[1,1],
+        dragonbane:false,
+        ruby:true,
+        info: 'ZCB + Dhides',
+    },
+    bofa: {
+        acc:221,
+        str:113,
+        aspd:4,
+        setbonus:[1.15,1.3],
+        dragonbane:false,
+        ruby:false,
+        info: 'Bofa + Crystal',
+    },
+    bpmasori: {
+        acc:147,
+        str:70,
+        aspd:2,
+        setbonus:[1,1],
+        dragonbane:false,
+        ruby:false,
+        info: 'BP + DDarts + Masori',
+    },
+    dhcbdhides: {
+        acc:195,
+        str:139,
+        aspd:5,
+        setbonus:[1,1],
+        dragonbane:true,
+        dragonbonus:[1.25, 1.3],
+        ruby:true,
+        info: 'DHCB + Dhides',
+    }
+};

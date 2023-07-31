@@ -1,0 +1,30 @@
+body {
+    background-color:#191919;
+    font-family: 'Roboto Mono', monospace;
+    color:#e7e7e7;
+    font-size:20px;
+    font-weight:400;
+}
+
+.wrap {
+    width:1200px;
+    padding:50px;
+}
+
+.chart {
+    width:600px;
+    float:left;
+}
+
+#calc {
+    font-size:14px;
+    line-break: auto;
+    float:left;
+    margin-left:20px;
+}
+
+.hd {
+    font-weight:600;
+    color:#3bb0ff;
+    font-size:16px;
+}
