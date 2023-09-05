@@ -5,6 +5,15 @@ import { sim } from './sim.js';
 const coutput = document.getElementById("coutput");
 document.querySelector('#ibtn').addEventListener('click', processcmd);
 
+//enter key input handling
+//var el = document.getElementById("your_element_id");
+//eventTarget.addEventListener("keydown", (event) => {
+//    if (event.isComposing || event.keyCode === 229) {
+//      return;
+//    }
+    // do something
+//});
+
 const loadmessage = [
     '<span class="blue"><b>osrsim v1.4</b></span>',
     '<span class="yellow">&#9888; heavy operations may cause the client to freeze</span>',

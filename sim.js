@@ -1,4 +1,4 @@
-export function sim(trg, wpn, maroll, max, aspd, its, rlvl, zcbs, vwrs) {
+ifexport function sim(trg, wpn, maroll, max, aspd, its, rlvl, zcbs, vwrs) {
     const iterations = its;
     const raidlvl = rlvl;
     const zcbspecs = zcbs;

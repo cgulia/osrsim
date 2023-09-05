@@ -39,10 +39,20 @@ export const gear = {
         acc:195,
         str:139,
         aspd:5,
-        setbonus:[1,1],
-        dragonbane:true,
+        setbonus:[1.25, 1.3],
         dragonbonus:[1.25, 1.3],
+        dragonbane:true,
         ruby:true,
         info: 'DHCB + Dhides',
+    },
+    dhcbmasori: {
+        acc:236,
+        str:149,
+        aspd:5,
+        setbonus:[1.25, 1.3],
+        dragonbonus:[1.25, 1.3],
+        dragonbane:true,
+        ruby:true,
+        info: 'DHCB + Masori',
     }
 };
