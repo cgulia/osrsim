@@ -33,7 +33,7 @@ export const gear = {
         setbonus:[1,1],
         dragonbane:false,
         ruby:false,
-        info: 'BP + DDarts + Masori',
+        info: 'BP + DDartsa + Masori',
     },
     dhcbdhides: {
         acc:195,
